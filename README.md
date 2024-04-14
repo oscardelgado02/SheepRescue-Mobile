@@ -1,4 +1,4 @@
-# SheepRescue-Mobile
+# Sheep Rescue - Mobile
  Sheep Rescue game (Introduction to Unity Scripting tutorial) adapted to mobile controls.
 
 <div align="center">
